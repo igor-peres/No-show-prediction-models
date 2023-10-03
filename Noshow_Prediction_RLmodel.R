@@ -93,3 +93,4 @@ cb = givitiCalibrationBelt(o = Observed,
 plot(cb,main="Calibration Belt - RL",
      xlab="Predicted probabilities of no-show",
      ylab="Observed no-show")
+
